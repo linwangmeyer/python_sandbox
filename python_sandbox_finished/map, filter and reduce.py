@@ -1,5 +1,5 @@
 
-from setuptools import reduce #importing reduce module for using reduce function
+from functools import reduce #importing reduce module for using reduce function
 
 l1 = [2,3,4,5,6]
 
